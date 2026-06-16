@@ -112,7 +112,7 @@ Event registration, Stripe payment collection, Supabase backend, admin dashboard
 **Tech:** `React` `Vite` `Supabase` `Stripe` `n8n` `Cloudflare` `Netlify`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/OmkarPadhy/E-Fiesta-2k25)
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify)](https://YOUR_LIVE_LINK)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify)](https://e-fiesta.in)
 
 ---
 
